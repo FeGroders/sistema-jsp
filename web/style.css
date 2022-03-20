@@ -1,0 +1,31 @@
+body {
+    background-color: #FFFFFF;
+    color: #19181F;
+}
+
+a {
+    text-decoration: none;
+    color: #19181F;
+    padding: 10px;
+}
+
+h2 {
+    color: #67159C;
+}
+
+table {
+    border: solid 1px;
+}
+
+th {
+    padding: 10px;
+}
+
+tr {
+    padding: 10px;
+}
+
+#btnVoltar {
+    float: right;
+    margin-right: 50px
+}
